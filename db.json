@@ -25,7 +25,7 @@
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/"
     }
   ],
-    "accomodation": [
+  "accomodation": [
     {
       "id": 0,
       "name": "Однокомнатный номер Стандарт",
@@ -45,6 +45,24 @@
       "id": 3,
       "name": "Трёхкомнатный",
       "capacity": 5
+    }
+  ],
+  "additionalServices": [
+    {
+      "id": 0,
+      "name": "Завтрак + обед"
+    },
+    {
+      "id": 1,
+      "name": "Завтрак + ужин"
+    },
+    {
+      "id": 2,
+      "name": "Завтрак"
+    },
+    {
+      "id": 3,
+      "name": "Полный пансион"
     }
   ]
 }
