@@ -4,24 +4,32 @@
       "id": 0,
       "name": "В царстве грациозной лани",
       "capacity": 5,
+      "duration": 2,
+      "isAccomodationRequired": false,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/"
     },
     {
       "id": 1,
       "name": "В краю ревущего оленя",
       "capacity": 5,
+      "duration": 2,
+      "isAccomodationRequired": false,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/"
     },
     {
       "id": 2,
       "name": "В резиденции сказочного чык-чырыка",
       "capacity": 5,
+      "duration": 2,
+      "isAccomodationRequired": true,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/"
     },
     {
       "id": 3,
       "name": "Медвежий угол",
       "capacity": 5,
+      "duration": 2,
+      "isAccomodationRequired": false,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/"
     }
   ],
@@ -50,19 +58,23 @@
   "additionalServices": [
     {
       "id": 0,
-      "name": "Завтрак + обед"
+      "name": "Завтрак + обед",
+      "isRequired": false
     },
     {
       "id": 1,
-      "name": "Завтрак + ужин"
+      "name": "Завтрак + ужин",
+      "isRequired": false
     },
     {
       "id": 2,
-      "name": "Завтрак"
+      "name": "Завтрак",
+      "isRequired": false
     },
     {
       "id": 3,
-      "name": "Полный пансион"
+      "name": "Полный пансион",
+      "isRequired": false
     }
   ]
 }
