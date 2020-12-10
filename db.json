@@ -45,22 +45,26 @@
     {
       "id": 0,
       "name": "Однокомнатный номер Стандарт",
-      "capacity": 2
+      "capacity": 2,
+      "availableQuantity": 3
     },
     {
       "id": 1,
       "name": "Двухкомнатный номер Делюкс",
-      "capacity": 3
+      "capacity": 3,
+      "availableQuantity": 1
     },
     {
       "id": 2,
       "name": "Двухкомнатный номер 'Романтический'",
-      "capacity": 2
+      "capacity": 2,
+      "availableQuantity": 2
     },
     {
       "id": 3,
       "name": "Трёхкомнатный",
-      "capacity": 5
+      "capacity": 5,
+      "availableQuantity": 5
     }
   ],
   "additionalServices": [
