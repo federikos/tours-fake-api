@@ -6,6 +6,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": false,
+      "ageLimit": null,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
       "cancellationRules": "В случае отказа от оказания Услуг по инициативе Заказчика, независимо от причин, по средством заявления в письменной форме, за 30 календарных дней и более Исполнитель возвращает 80% от о общей стоимости услуг, за 14 календарный дней и более Исполнитель возвращает 50% от общей стоимости услуг, за 10 календарных дней и более - 30 %, за 9 календарных дней   и менее - стоимость Услуг не возвращается."
@@ -16,6 +17,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": false,
+      "ageLimit": null,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
       "cancellationRules": "В случае отказа от оказания Услуг по инициативе Заказчика, независимо от причин, по средством заявления в письменной форме, за 30 календарных дней и более Исполнитель возвращает 80% от о общей стоимости услуг, за 14 календарный дней и более Исполнитель возвращает 50% от общей стоимости услуг, за 10 календарных дней и более - 30 %, за 9 календарных дней   и менее - стоимость Услуг не возвращается."
@@ -26,6 +28,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": true,
+      "ageLimit": 15,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
       "cancellationRules": "В случае отказа от оказания Услуг по инициативе Заказчика, независимо от причин, по средством заявления в письменной форме, за 30 календарных дней и более Исполнитель возвращает 80% от о общей стоимости услуг, за 14 календарный дней и более Исполнитель возвращает 50% от общей стоимости услуг, за 10 календарных дней и более - 30 %, за 9 календарных дней   и менее - стоимость Услуг не возвращается."
@@ -36,6 +39,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": false,
+      "ageLimit": null,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
       "cancellationRules": "В случае отказа от оказания Услуг по инициативе Заказчика, независимо от причин, по средством заявления в письменной форме, за 30 календарных дней и более Исполнитель возвращает 80% от о общей стоимости услуг, за 14 календарный дней и более Исполнитель возвращает 50% от общей стоимости услуг, за 10 календарных дней и более - 30 %, за 9 календарных дней   и менее - стоимость Услуг не возвращается."
