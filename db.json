@@ -6,6 +6,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": false,
+      "requiredAdditionalServices": [],
       "ageLimit": null,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
@@ -17,6 +18,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": false,
+      "requiredAdditionalServices": [],
       "ageLimit": null,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
@@ -28,6 +30,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": true,
+      "requiredAdditionalServices": [0, 2],
       "ageLimit": 15,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
@@ -39,6 +42,7 @@
       "capacity": 5,
       "duration": 2,
       "isAccomodationRequired": false,
+      "requiredAdditionalServices": [],
       "ageLimit": null,
       "link": "https://www.berezinsky.by/ekoprosveshchenie-i-turizm/programmy-turov/tury-v-prirodu/",
       "contractOfferLink": "https://braslavpark.by/otdykh-i-turizm/publichnyy-dogovor/",
@@ -75,22 +79,18 @@
     {
       "id": 0,
       "name": "Завтрак + обед",
-      "isRequired": false
     },
     {
       "id": 1,
       "name": "Завтрак + ужин",
-      "isRequired": false
     },
     {
       "id": 2,
       "name": "Завтрак",
-      "isRequired": false
     },
     {
       "id": 3,
       "name": "Полный пансион",
-      "isRequired": false
     }
   ]
 }
